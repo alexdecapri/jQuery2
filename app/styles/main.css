@@ -1,4 +1,11 @@
 .panel {
 	display: inline-block;
 	width: 33%;
+
+}
+
+#newList {
+	display: inline-block;
+	margin-right: 50px;
+
 }
