@@ -76,5 +76,5 @@ $(document).ready(function() {
 	});
 
 
-	console.log(listo);
+	// console.log(listo);
 });
